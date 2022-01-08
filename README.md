@@ -14,7 +14,7 @@ Course Highlights
 
 GAN-generated Cityscapes   |  Speaker Identification | Topic Modeling | PCA vs. LDA 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![GAN Cityscapes](figures/gan_cityscape_shrunk.jpg?)  |  ![Speaker Identification](figures/hmm.png?raw=true "Title") | ![Topic Modeling](figures/latent_dirichlet_allocation.png?raw=true "Title") | ![PCA vs LDA](figures/pca_vs_lda.png?raw=true "Title") 
+![GAN Cityscapes](-Figures/gan_cityscape_shrunk.jpg?)  |  ![Speaker Identification](-Figures/hmm.png?raw=true "Title") | ![Topic Modeling](-Figures/latent_dirichlet_allocation.png?raw=true "Title") | ![PCA vs LDA](-Figures/pca_vs_lda.png?raw=true "Title") 
 
 
 
